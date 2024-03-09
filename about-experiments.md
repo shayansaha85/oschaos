@@ -20,8 +20,8 @@
 ## Experiments oschaos can do for you
 
 ### Windows  
-- CPU Hog: Simulate high CPU usage to test system performance under heavy load.
-- Memory Hog: Allocate excessive memory to assess how the system handles memory exhaustion.
+- **CPU Hog**: Simulate high CPU usage to test system performance under heavy load.
+- **Memory Hog**: Allocate excessive memory to assess how the system handles memory exhaustion.
 - **Disk Space Fill:** Fill up disk space to evaluate the system's behavior when storage runs low.
 - **Service Stoppage:** Stop critical services to observe the impact on system availability.
 - **Network Partition:** Simulate network outages or disruptions to test network resilience.
